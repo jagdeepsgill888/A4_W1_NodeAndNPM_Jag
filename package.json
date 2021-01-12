@@ -1,0 +1,34 @@
+{
+  "name": "a4_w1_nodeandnpm_jag",
+  "version": "1.0.0",
+  "description": "learning node and npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagdeepsgill888/A4_W1_NodeAndNPM_Jag.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "git",
+    "github",
+    "cool"
+  ],
+  "author": "Jag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagdeepsgill888/A4_W1_NodeAndNPM_Jag/issues"
+  },
+  "homepage": "https://github.com/jagdeepsgill888/A4_W1_NodeAndNPM_Jag#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "mysql": "^2.18.1",
+    "underscore": "^1.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
