@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Hello from Node\"",
-    "start": "node app"
+    "start-dev": "nodemon app",
+    "start": "nodemon app"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,7 @@
   },
   "homepage": "https://github.com/jagdeepsgill888/A4_W1_NodeAndNPM_Jag#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "gulp": "^4.0.2",
     "mysql": "^2.18.1",
     "underscore": "^1.12.0"
